@@ -1,0 +1,8 @@
+{
+  "name": "java-tap",
+  "description": "Java JDK distributions",
+  "packages": {
+    "temurin": "temurin.json",
+    "oracle_jdk": "oracle-jdk.json"
+  }
+}

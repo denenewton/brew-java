@@ -1,0 +1,11 @@
+{
+  "name": "Oracle JDK",
+  "homepage": "https://oracle.com/java",
+  "versions": {
+    "21": {
+      "intel": "https://download.oracle.com/java/21/latest/jdk-21_macos-x64_bin.dmg",
+      "arm": "https://download.oracle.com/java/21/latest/jdk-21_macos-aarch64_bin.dmg",
+      "type": "dmg"
+    }
+  }
+}

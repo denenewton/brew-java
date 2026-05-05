@@ -1,0 +1,16 @@
+{
+  "name": "Eclipse Temurin JDK",
+  "homepage": "https://adoptium.net",
+  "versions": {
+    "21": {
+      "intel": "https://github.com/adoptium/temurin21-binaries/releases/latest/download/OpenJDK21U-jdk_x64_mac_hotspot.pkg",
+      "arm": "https://github.com/adoptium/temurin21-binaries/releases/latest/download/OpenJDK21U-jdk_aarch64_mac_hotspot.pkg",
+      "type": "pkg"
+    },
+    "17": {
+      "intel": "https://github.com/adoptium/temurin17-binaries/releases/latest/download/OpenJDK17U-jdk_x64_mac_hotspot.pkg",
+      "arm": "https://github.com/adoptium/temurin17-binaries/releases/latest/download/OpenJDK17U-jdk_aarch64_mac_hotspot.pkg",
+      "type": "pkg"
+    }
+  }
+}
